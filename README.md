@@ -3,7 +3,8 @@
 # Preview:
 <p align="center"><img src ="/images/img1.png"  /></p>
 <p align="center"><img src ="/images/img2.png"  /></p>
-#
+
+
 ### Download: [RELEASES](https://github.com/thuanvoit/Hackintosh-Dell-Inspiron-3520/releases)
 
 
