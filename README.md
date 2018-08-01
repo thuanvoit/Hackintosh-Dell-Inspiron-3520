@@ -15,7 +15,7 @@
 - Wifi + Buetooth: BCM943225HM
 - Audio : Cirrus Logic CS4213
 - Touchpad : ALPS Touchpad
-- Webcam : Auto-working
+- Webcam 
 
 ### Working
 - Graphics HD 4000
