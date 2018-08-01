@@ -1,12 +1,12 @@
 # How to Install Mac OS High Sierra 10.13.6 on Laptop Dell Inspiron 3520
-#
+
 # Preview:
 <img src ="/images/img1.png"  />
 <img src ="/images/img2.png"  />
 <img src ="/images/img3.png" />
 <img src ="/images/img4.png"  />
 
-#
+
 # System information
 - Processor : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (Ivy Bridge)
 - Graphics Processor(GPU) : Intel HD4000 1536 MB Graphics
