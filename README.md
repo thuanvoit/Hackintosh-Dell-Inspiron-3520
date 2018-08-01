@@ -6,6 +6,8 @@
 <img src ="/images/img3.png" />
 <img src ="/images/img4.png"  />
 
+# Download: [RELEASES](https://github.com/thuanvoit/Hackintosh-Dell-Inspiron-3520/releases)
+
 
 # System information
 - Processor : Intel(R) Core(TM) i5-3230M CPU @ 2.60GHz (Ivy Bridge)
