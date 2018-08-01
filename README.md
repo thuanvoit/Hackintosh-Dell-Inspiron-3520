@@ -78,7 +78,7 @@ All files in ' ALPS.VoodooPS2.Rev12 ' folder
 [Following Rehabman Guide using VooDooPS2Controller](https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller/wiki/How-to-Install)
 
 ### Fix function keys
-* Download ' Karabiner-Elements-12.1.0.dmg ' in Tools
+* Download ' Karabiner-Elements-12.1.0.dmg ' in <a href="/Tools/>Tools</a>
 * [Karabiner Elements](https://l.facebook.com/l.php?u=https%3A%2F%2Fgithub.com%2Ftekezo%2FKarabiner-Elements&h=AT2DVoTW5UeSOoi4BrHvv-GmIBFkGGlhkF1BE5dQWnsch4Um7YBcoA9PibJ9d62TyUDVqmhKkh3pKUVHX3s2QdbF76VmeK4t-BGFB_dtrSpY0COjQadRXYOrBHqXilUmcc8bqxd3ojGGo_eNr9ZCgRomPT4)
 
 ### Credits:
